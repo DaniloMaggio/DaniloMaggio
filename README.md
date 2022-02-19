@@ -2,6 +2,6 @@
 <ul>
   
   <li>👀 Appassionato ed interessato al mondo del web development.</li>
-  <li>🌱 Attualmente sto studiando CSS, Javascript, React.</li>
-  <li> 💬 Chiedetemi qualsiasi cosa! </li>
+  <li>🌱 Attualmente sto imparando CSS, Javascript, React.</li>
+  <li> 💬 Chiedimi qualsiasi cosa! </li>
 </ul>
